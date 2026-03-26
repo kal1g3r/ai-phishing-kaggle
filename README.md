@@ -43,4 +43,3 @@ This shows which words/phrases pushed the prediction toward **phishing** or **le
 pip install -r requirements.txt
 jupyter notebook
 <img width="587" height="1048" alt="image" src="https://github.com/user-attachments/assets/af49cda5-a0c1-4044-bc90-7f419f312488" />
-[Приложение на AI за киберсигурност.pptx](https://github.com/user-attachments/files/26288315/AI.pptx)
